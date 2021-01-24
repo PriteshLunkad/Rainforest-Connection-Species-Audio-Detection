@@ -1,0 +1,1 @@
+web: pip install tensorflow-io && sh setup.sh && streamlit run deployment.py
