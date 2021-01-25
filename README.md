@@ -12,3 +12,5 @@ This dataset contains train_tp CSV files which contain 1216 rows which contain s
 
 # Performance Metric:
 The metric used for evaluation is label-ranking-average precision(LRAP), this metric is linked with average precision score but based on the notion of label ranking instead of precision and recall.
+
+# Link to blog- https://priteshlunkad1999.medium.com/rainforest-connection-species-audio-detection-67ddbeb951c3
